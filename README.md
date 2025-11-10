@@ -61,7 +61,7 @@ See `frontend/README.md` for detailed frontend documentation.
 ### Backend Setup (Coming Soon)
 
 Backend API will be built with:
-- Node.js + Express/NestJS
+-  Springboot
 - MySQL/PostgreSQL with Prisma ORM
 - JWT Authentication
 - Role-based access control
@@ -92,12 +92,7 @@ Backend API will be built with:
 - Recharts
 - Axios
 
-### Backend (Planned)
-- Node.js
-- Express/NestJS
-- MySQL/PostgreSQL
-- Prisma ORM
-- JWT Authentication
+ 
 
 ### Deployment
 - Frontend: Vercel/Netlify
