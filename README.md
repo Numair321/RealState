@@ -6,7 +6,7 @@ A comprehensive Multi-Level Marketing (MLM) real estate platform with role-based
 
 ```
 ├── frontend/          # React + Tailwind CSS frontend application
-└── backend/           # Node.js backend API (to be created)
+└── backend/           # SpringBoot backend API (to be created)
 ```
 
 ## Features
